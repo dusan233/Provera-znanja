@@ -4,7 +4,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.w3schools.com adresar.xsd">
   <Artikal>
-    <Naziv sifra='das' >Artikal1</Naziv>
+    <Naziv sifra='dass234f11htytw' >Artikal1</Naziv>
     <DatumIzrade>
       <Dan>1</Dan>
       <Mesec>1</Mesec>
@@ -20,7 +20,7 @@
     <EmailProdavca tip="sluzbeni">markonrt1017@gmail.com</EmailProdavca>
   </Artikal>
   <Artikal>
-    <Naziv sifra='das' >Artikal2</Naziv>
+    <Naziv sifra='qhgj123jjgkf5455' >Artikal2</Naziv>
     <DatumIzrade>
       <Dan>4</Dan>
       <Mesec>5</Mesec>
