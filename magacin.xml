@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Adresar SYSTEM "adresar.dtd">
+<Artikli xmlns="http://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com adresar.xsd">
+  <Artikal>
+    <Naziv sifra='das' >Artikal1</Naziv>
+    <DatumIzrade>
+      <Dan>1</Dan>
+      <Mesec>1</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena>20 000</Cena>
+    <KompanijaProdavca>
+        <ImeKompanije>Kompanija1</ImeKompanije>
+        <Adresa>Pere Perica 23</Adresa>
+        <Adresa>DJure Djurica 3</Adresa>
+    </KompanijaProdavca>
+    <EmailProdavca tip="privatni">markomarkovic@gmail.com</EmailProdavca>
+    <EmailProdavca tip="sluzbeni">markonrt1017@gmail.com</EmailProdavca>
+  </Artikal>
+  <Artikal>
+    <Naziv sifra='das' >Artikal2</Naziv>
+    <DatumIzrade>
+      <Dan>4</Dan>
+      <Mesec>5</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena tip='euro' >200</Cena>
+    <KompanijaProdavca>
+        <ImeKompanije>Kompanija1</ImeKompanije>
+        <Adresa>Ljubise Ljubica 6a</Adresa>
+    </KompanijaProdavca>
+    <EmailProdavca tip="sluzbeni">neko12nesto@gmail.com</EmailProdavca>
+  </Artikal>
+</Artikli>
